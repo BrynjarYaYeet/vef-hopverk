@@ -1,3 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
 
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+a {
+  text-decoration: none;
+}
+
+.indHeader {
+  background-image: url(myndir/mynd.jpg);
+  background-repeat: no-repeat;
+}
+
+.flugvel {
+  max-height: 415px;
+}
 
 /*# sourceMappingURL=styles.css.map */
